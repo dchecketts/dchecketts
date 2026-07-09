@@ -5,4 +5,4 @@
 * Independently learning: Blazor Server, Tailwind, Astro, TypeScript, Dart
 * Daily use: HTML, CSS, C#, Python
 
-Learn more & get to know me at (my site)[dchecketts.github.io)
+Learn more & get to know me at [my site](dchecketts.github.io)
