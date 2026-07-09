@@ -7,4 +7,4 @@
 * Daily use: HTML, CSS, C#, Python, Tailwind
 
 I love learning and experimenting with new technologies.
-Learn more & get to know me at [my site](dchecketts.github.io).
+Learn more about me & see what I'm up to at [my site](https://dchecketts.github.io).
