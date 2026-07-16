@@ -1,5 +1,9 @@
 # Daniel Checketts
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dchecketts&rank_icon=percentile&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=dchecketts&rank_icon=percentile&show_icons=true&include_all_commits=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dchecketts&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=dchecketts&layout=compact&langs_count=4)
+
 * Junior Web Developer
 * Vice President of the [Web Dev Society @ BYU-I](https://web-design-development-society.github.io/webdevsociety/)
 * Independently learning: Blazor Server, HTMX, Astro, TypeScript, Dart
