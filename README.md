@@ -1,4 +1,4 @@
-# Daniel Checketts
+## Daniel Checketts
 
 * Junior Web Developer
 * Vice President of the [Web Dev Society @ BYU-I](https://web-design-development-society.github.io/webdevsociety/)
